@@ -1,41 +1,53 @@
-# Hi there, I'm Yahya Izadi 👋
-
-### Data Scientist | [cite_start]Machine Learning & Predictive Modeling [cite: 11]
-
-[cite_start]I'm an undergraduate Computer Science student at the University of Isfahan [cite: 13, 17] [cite_start]with a strong passion for Data Science and Machine Learning[cite: 13]. [cite_start]I am proficient in using Python [cite: 14][cite_start], SQL [cite: 14][cite_start], and libraries like Pandas and Scikit-learn for data analysis, visualization, and building predictive models[cite: 14].
-
-[cite_start]I'm actively seeking a part-time position where I can apply my analytical skills to real-world projects and contribute to a data-driven team[cite: 15].
-
----
-
-### 🛠️ Languages and Tools
-
-My skill set includes:
-
-- [cite_start]**Programming Languages:** Python [cite: 5][cite_start], SQL [cite: 6]
-- [cite_start]**Libraries & Frameworks:** Pandas [cite: 14][cite_start], Scikit-learn [cite: 14]
-- [cite_start]**Core Competencies:** Machine Learning [cite: 5][cite_start], Data Analysis [cite: 14][cite_start], Predictive Modeling [cite: 14]
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,mysql&theme=light" />
-  </a>
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>
+    Hi there, I'm Yahya Izadi
+    <br/>
+  </h1>
+  <h3>
+    👨‍💻 Data Scientist | Machine Learning & Predictive Modeling 👨‍💻
+  </h3>
+</div>
 
 ---
 
-### 📊 My GitHub Stats
+### 👨‍💼 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yahaiz&show_icons=true&theme=radical" alt="Yahya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahaiz&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+- 🎓 I'm an undergraduate **Computer Science** student at the **University of Isfahan**.
+- 💡 Passionate about solving complex problems using data and **Machine Learning** algorithms.
+- 🚀 I am actively seeking a **part-time position** to apply my analytical skills to real-world projects and contribute to a data-driven team.
 
 ---
 
-### 📫 Connect with Me
+### 🛠️ My Skills
 
-<p align="left">
+| Category                  | Technologies                                            |
+| :------------------------ | :------------------------------------------------------ |
+| **Programming Languages** | `Python`, `SQL`                                         |
+| **Libraries & Frameworks**| `Pandas`, `Scikit-learn`                                |
+| **Core Concepts** | `Machine Learning`, `Data Analysis`, `Predictive Modeling`|
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,mysql&perline=4&theme=light" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yahaiz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=yahaiz&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/yahya-izadi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -45,4 +57,4 @@ My skill set includes:
   <a href="mailto:me@yahyaizadi.ir">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+</div>
